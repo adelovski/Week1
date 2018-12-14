@@ -1,0 +1,237 @@
+body {
+    margin:0px;
+    padding:0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #28292b;
+}
+
+.logo {
+   margin-top:-120px;
+   
+
+}
+
+
+.name {
+   margin-left:290px;
+   margin-bottom:50px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 53px;
+   color:#2D8740;
+   text-decoration: underline overline;
+
+    
+  }
+
+  .buttons {
+   float: right;
+   margin-top:-85px;
+   margin-right:35px;
+   background-color: #2D8740;
+  }
+
+  .description {
+      margin-left:290px;
+      margin-top:-32px;
+      color: #2D8740;
+      text-decoration:underline overline;
+
+  }
+ .bar {
+  border-style:solid;
+  border-width:17px;
+  border-color:#2D8740;
+  background-color:#2D8740;
+  
+  
+ }
+ a {
+     margin-left:45px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color:#232823;
+     font-size:large;
+ }
+
+
+.one {
+ float:right;
+ margin-top:-19px;
+ margin-right:9px;
+ font-size:17px;
+ color:white;
+ 
+}
+.search {
+    float:right;
+    margin-right:-285px;
+    font-size:16px;
+}
+#favicon {
+    float: right;
+    width:22px;
+    margin-right:-310px;
+   
+}
+
+#imgbig {
+    width:100%
+}
+
+  .headline {
+  margin-top: 30px;
+
+  }
+.corgi {
+  font-size: 50px;
+  color: #232823;
+  border-style:outset;
+  border-width:0px;
+  border-color:#2D8740;
+  background-color: #2D8740;
+
+  
+}
+
+#dogo { 
+    width: 35%;
+    float: left;
+}
+
+.topstory { 
+float: left;
+width: 70%;
+}
+.text {
+    font-size: 18px;
+    color: #2D8740;
+    text-align: left;
+    
+    
+}
+.button {
+    background-color: #4CAF50;
+    border:none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 70px 191px;
+    cursor: pointer;
+}
+#newsletter {
+  font-size: 50px;  
+  border-style:outset;
+  border-width:0px;
+  border-color:#2D8740;
+  background-color: #2D8740;
+  color: #232823;
+  
+
+}
+
+.newsletter {
+display: inline-block;
+width: 70%;
+}
+
+.photo {
+ width: 20%;
+}
+
+.photodiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: -53px;
+  margin-top: -55px;
+  width: 91%;
+
+}
+.slika {
+
+    width: 20%;
+    height: 470px;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+#user {
+font-size: 30px;
+color: #2D8740;
+}
+
+#review {
+    font-size: 20px;
+    border-style:outset;
+    border-width:0px;
+    border-color:#2D8740;
+    background-color: #2D8740;
+}
+.Social{
+    width: 29%;
+    float: right;
+    margin-top: 42px;
+    border-style:solid;
+    border-width:6px;
+    border-color:#2D8740;
+    background-color:#2D8740;
+   
+}   
+#soc {
+    margin-left: 200px;
+   font-size: 35px;
+  color: #232823;
+}
+#share {
+    background-color: #4CAF50;
+    border:none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin:20px 165px;
+    cursor: pointer;
+}
+.navigate {
+    width: 29%;
+    float: right;
+    margin-top: 140px;
+    border-style:solid;
+    border-width:8px;
+    border-color:#2D8740;
+    color: beige;
+    height: 416px;
+   
+ 
+}
+.navi {
+    margin-left: 175px;
+    font-size: 37px;
+    
+}
+
+.footer {
+    width: 100%;
+    height: 90px;
+    display: inline-flex;
+    flex-direction: row;
+    border-top: 10px solid #2D8740;
+    padding: 10px 1px;
+    position: relative;
+    justify-content: center;
+    background-color:  #2D8740;
+    color: white;
+    
+}
+#rights {
+    margin-left:120px;
+    font-size: 30px;
+    color: #232823;
+}
+.list {
+    font-size: 39px;
+}
